@@ -10,7 +10,7 @@ Je suis un développeur web passionné. J'ai une petite expérience dans les tec
 Voici les projets que j'ai épinglés sur mon profil GitHub pour les mettre en avant :
 
 - [Projet 1](https://github.com/projet-fan-sites)
-- [Projet 2]
+- [Projet 2](https://github.com/lucas-chhim/tictactoetest)
 
 <!--
 **ArthurGhoukassian/ArthurGhoukassian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
