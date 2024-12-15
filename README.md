@@ -15,7 +15,7 @@ Je suis un jeune passionné de cyber sécurité et de développement web. J'ai u
 
 Voici les projets que j'ai épinglés sur mon profil GitHub pour les mettre en avant :
 
-<img src="fansite.png" width="200">
+<img src="fansite.png" width="500">
 
 - Projet 1 FanSite poour les bleus https://github.com/MerlinFache/Projet-FanSite
   
