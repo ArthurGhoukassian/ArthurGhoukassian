@@ -1,8 +1,8 @@
-## Hi there 👋
+## Bienvenue sur le github de Arthur Ghoukassian 👋
 
 ## Biographie professionnelle
 
-Je suis un développeur web passionné. J'ai une petite expérience dans les technologies telles que Html, Css et Python. Mon objectif est de résoudre des problèmes complexes et de créer des expériences utilisateur exceptionnelles. En plus de mes compétences techniques, j'ai une capacité à travailler en équipe et à m'adapter rapidement aux nouvelles technologies.
+Je suis un jeune passionné de cyber sécurité et de développement web. J'ai une petite expérience dans les technologies telles que Html, Css et Python. Mon objectif est de résoudre des problèmes complexes et de créer des expériences utilisateur exceptionnelles. En plus de mes compétences techniques, j'ai une capacité à travailler en équipe et à m'adapter rapidement aux nouvelles technologies.
 
 
 ## Projets épinglés
