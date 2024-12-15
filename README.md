@@ -23,7 +23,7 @@ Voici les projets que j'ai épinglés sur mon profil GitHub pour les mettre en a
 
 - Projet 2 TicTacToe en Python https://github.com/lucas-chhim/tictactoetest
 
-Contact 
+## Contact 
 Email : arthur.ghoukassian@laplateforme.io
 
 [![Logo LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/votre-nom-utilisateur/)
