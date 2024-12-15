@@ -1,4 +1,6 @@
 
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+
 
 ## Bienvenue sur le github de Arthur Ghoukassian 👋
 
