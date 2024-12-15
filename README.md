@@ -17,7 +17,7 @@ Voici les projets que j'ai épinglés sur mon profil GitHub pour les mettre en a
 
 <img src="fansite.png">
 - Projet 1 FanSite poour les bleus https://github.com/MerlinFache/Projet-FanSite
-<img src="tictactoe.png>
+<img src="tictactoe.png">
 - Projet 2 TicTacToe en Python https://github.com/lucas-chhim/tictactoetest
 
 Contact 
