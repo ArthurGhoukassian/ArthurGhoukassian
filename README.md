@@ -16,6 +16,9 @@ Voici les projets que j'ai épinglés sur mon profil GitHub pour les mettre en a
 Contact 
 Email : arthur.ghoukassian@laplateforme.io
 
+[![Logo LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/votre-nom-utilisateur/)
+
+
 <!--
 **ArthurGhoukassian/ArthurGhoukassian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
